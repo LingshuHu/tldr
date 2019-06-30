@@ -1,11 +1,10 @@
 Package: tldr
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Text Deep Learning in R
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Lingshu Hu
+Maintainer: The package maintainer <lingshu.hu@hotmail.com>
+Description: This package provides functions to preprocess data, embed words, and classify texts through neural network model. 
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
